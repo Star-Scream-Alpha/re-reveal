@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "497292173808",
+    "project_id": "reveal-9f937",
+    "storage_bucket": "reveal-9f937.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:497292173808:android:ae9806e89dde01e6353d35",
+        "android_client_info": {
+          "package_name": "com.cogni.rereveal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXcV5ZwDJZF4Lr61zWcsMis6RRE5DgjK8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
